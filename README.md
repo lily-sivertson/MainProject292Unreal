@@ -19,3 +19,9 @@ This is a stardew valley clone but in 3D made in Unreal Engine 5.4
 - more terrain: https://kenney.nl/assets/tower-defense-kit
 - house: https://opengameart.org/content/tiny-treats-homely-house-set 
 - person: https://www.mixamo.com/#/?page=1&type=Character 
+
+
+### Tutorials
+- rain effect: https://www.youtube.com/watch?v=T1o0Yu1VyyY&t=2s
+- inventory: https://www.youtube.com/watch?v=XIsQlZ_0Eps&list=PL2gceESpdf6mf8Z1NnSwdGenD_Q3ln4yo
+- inventory: https://www.youtube.com/watch?v=b2atcZWYi3E&t=1510s
