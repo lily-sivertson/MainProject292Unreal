@@ -1,5 +1,7 @@
 # MainProject292Unreal
-This is a stardew valley clone but in 3D made in Unreal Engine 5.4 in 7 weeks
+## Aka My Time At Stardew
+This is a stardew valley clone but in 3D made in Unreal Engine 5.4 in 7 weeks.
+The game is heavily inspired by Stardew Valley and My time at Portia.
 
 ## Controls
 - WASD to move
@@ -9,6 +11,7 @@ This is a stardew valley clone but in 3D made in Unreal Engine 5.4 in 7 weeks
 - Esc to quit the game (no pause menu will show up, the game will immediately stop)
 - 1-9 keys for inventory slots
 - left click to use items
+
 
 ## Assets
 Animations from mixamo.com
