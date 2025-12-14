@@ -12,6 +12,18 @@ The game is heavily inspired by Stardew Valley and My time at Portia.
 - 1-9 keys for inventory slots
 - left click to use items
 
+## Features
+- map of farm and house
+- ability to walk around world
+- map saves between locations
+- progression of days by sleeping/ passing out
+- stamina and health bars
+- selling system
+- ability to interact with world and items
+- Planting and growing crops
+- Random Weather and weather prediction
+- day system
+
 
 ## Assets
 Animations from mixamo.com
@@ -45,3 +57,19 @@ Animations from mixamo.com
 
 ### Note
 some of the assets were editted or made by me in Medibang Paint Pro. Also, some of the inventory code was inspired from the referenced tutorials, but much of it is original.
+
+## Future goals
+While I managed to finish the threshold goals I made within 8 weeks, there are still many things I would like to add to make this feel more like a fleshed out game than just a janky student project.
+Future goals include:
+- full animation state machine
+- adding fishing
+- more crops and items
+- other locations
+- proper save and load system
+- end-of-day screen
+- npcs
+- crafting recipes
+- weapons
+- cooking
+- better organization and more polish
+- Music
